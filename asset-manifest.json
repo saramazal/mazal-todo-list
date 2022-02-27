@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mazal-todo-list/static/css/main.3bc2b176.css",
+    "main.js": "/mazal-todo-list/static/js/main.6eaa6893.js",
+    "static/js/787.63e47474.chunk.js": "/mazal-todo-list/static/js/787.63e47474.chunk.js",
+    "static/media/trash.svg": "/mazal-todo-list/static/media/trash.58f3af7cca5dcde7e5f2378bf6a01fd7.svg",
+    "index.html": "/mazal-todo-list/index.html",
+    "main.3bc2b176.css.map": "/mazal-todo-list/static/css/main.3bc2b176.css.map",
+    "main.6eaa6893.js.map": "/mazal-todo-list/static/js/main.6eaa6893.js.map",
+    "787.63e47474.chunk.js.map": "/mazal-todo-list/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bc2b176.css",
+    "static/js/main.6eaa6893.js"
+  ]
+}
