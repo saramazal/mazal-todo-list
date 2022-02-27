@@ -17,4 +17,4 @@
       }
 * 8.  npm run deploy
 * 
-![Screenshot]()
+![Screenshot](https://github.com/saramazal/mazal-todo-list/blob/main/mazal-todo-list.png)
